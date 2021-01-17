@@ -1,0 +1,14 @@
+{
+    "name": "DSC.UI.Helper",
+    "rootNamespace": "DSC.UI.Helper",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
