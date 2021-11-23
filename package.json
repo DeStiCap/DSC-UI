@@ -2,8 +2,8 @@
     "name": "com.dsc.ui",
     "author": "DeStiCap",
     "displayName": "DSC UI",
-    "version": "0.1.0-preview.1",
-    "unity": "2020.2",
+    "version": "0.1.1-preview.1",
+    "unity": "2020.3",
     "keywords": [
         "UI"
     ],
@@ -14,6 +14,6 @@
 		"revision": "fea193e501e3ea78af486efa9817f5350ad80d7c"
 	},
 	"dependencies": {
-		"com.unity.textmeshpro": "3.0.3"
+		"com.unity.textmeshpro": "3.0.6"
 	}
 }
