@@ -2,7 +2,7 @@
     "name": "com.dsc.ui",
     "author": "DeStiCap",
     "displayName": "DSC UI",
-    "version": "0.1.1-preview.1",
+    "version": "0.1.2-preview.1",
     "unity": "2020.3",
     "keywords": [
         "UI"
@@ -11,7 +11,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/DeStiCap/DSC-UI.git",
-		"revision": "fea193e501e3ea78af486efa9817f5350ad80d7c"
+		"revision": "83587b01ba7c3819eac8e451641b7a1ec4765902"
 	},
 	"dependencies": {
 		"com.unity.textmeshpro": "3.0.6"

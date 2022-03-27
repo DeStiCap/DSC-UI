@@ -1,3 +1,6 @@
+## [0.1.2-preview.1] - 2022-03-27
+- Added UIUtility class.
+
 ## [0.1.1-preview.1] - 2021-11-23
 - Change minimum requirement Unity version to 2020.3
 - Change dependency Text Mesh Pro to version 3.0.6
